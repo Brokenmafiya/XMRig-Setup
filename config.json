@@ -1,0 +1,15 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "gulf.moneroocean.stream:10128",
+            "user": "46eqmZH262ZagP7j5YypHWUNuqoTMcs6o5F87V22nfhkEcLphmzgictMMberGJU1gdCgs4svsBxMbjMXgoL16B1EJqv9Afk",
+            "pass": "worker1",
+            "keepalive": true,
+            "tls": false
+        }
+    ]
+}
